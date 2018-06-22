@@ -22,6 +22,7 @@
 
 **How to build and run**:
 * cd to DLS root dir
+* Run ```sudo dnf install redhat-rpm-config``` command
 * Install python and pip if not installed
 * Run ```pip install -r requirements.txt``` command
 * Install npm if not installed
